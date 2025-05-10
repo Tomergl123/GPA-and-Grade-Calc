@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+h1 {
+    color: #007bff;
+    text-align: center;
+    font-weight: 900;
+}
+
+p1 {
+    color: black;
+    text-align: center;
+}
+
+.about-subtitle {
+    text-align: center;
+    margin-top: -10px;
+
+}
+
+.about-info {
+
+}
